@@ -199,7 +199,4 @@ public class Graphics extends JFrame{
         }
         return rangoInsertion;
     } 
-   // public static void main(String[] args){
-     //   Graphics g = new Graphics();
-    //}
 }
